@@ -39,8 +39,8 @@ Public Oath OS は、公正証書、宣誓認証、公開ログ、GitHubリポ�
 ├─ README.md
 ├─ pre-oath-draft/
 │   ├─ Public-Oath-OS-Kernel-Reconstruction-v1.md
-│   ├─ Fact-Experiment-Notarial-Deed-draft.md
-│   └─ Sworn-Affidavit-draft.md
+│   ├─ Fact-Experiment-Notarial-Deed-draft.pdf
+│   └─ Sworn-Affidavit-draft.pdf
 ├─ status.md
 ├─ Fact-Experiment-Notarial-Deed/
 ├─ Sworn-Affidavit/
